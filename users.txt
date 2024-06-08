@@ -1,0 +1,6 @@
+user1 abc123 Berkay Uzun mutlu
+user3 den123 Mehmet Demir normal
+user4 aysss Ayşe Kaya hüzünlü
+user5 can123 Can Yılmaz neşeli
+user6 zey123 Zeynep Öztürk huzursuz
+user7 Ahmet Dalga mutlu  user1: naber
